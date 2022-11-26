@@ -18,8 +18,8 @@
 // @grant   GM_openInTab
 // @grant   GM_addElement
 // @grant   unsafeWindow
-// @updateURL   https://raw.githubusercontent.com/Xu22Web/tech-study-js/master/tech-study.js
-// @downloadURL   https://raw.githubusercontent.com/Xu22Web/tech-study-js/master/tech-study.js
+// @updateURL   https://raw.staticdn.net/Xu22Web/tech-study-js/master/tech-study.js
+// @downloadURL   https://raw.staticdn.net/Xu22Web/tech-study-js/master/tech-study.js
 // ==/UserScript==
 /**
  * @description api配置
